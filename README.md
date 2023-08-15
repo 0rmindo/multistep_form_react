@@ -1,8 +1,6 @@
-# React + Vite
+<h1> ✍️ Formulário multisteps com React (Projeto 16)</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2>📚Essa projeto foi desenvolvido durante o curso <strong>Formação Front-end - HTML, CSS, JavaScript, React e +</strong></h2>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h3>Seção 42</h3>
+<p>💻Aula 564 à 573</P>
